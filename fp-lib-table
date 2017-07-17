@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name myfootprint)(type KiCad)(uri "$(KIPRJMOD)/myfootprint.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo")(options "")(descr ""))
+  (lib (name MCP3002-I_SN)(type Legacy)(uri "$(KIPRJMOD)/MCP3002-I_SN.mod")(options "")(descr ""))
+)
