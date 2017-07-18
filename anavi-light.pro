@@ -1,4 +1,4 @@
-update=17.07.2017 (пн) 21:41:33 EEST
+update=18.07.2017 (вт) 18:05:10 EEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,7 +29,7 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=anavi-light-phat-rescue
+LibName1=anavi-light-rescue
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -60,3 +60,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=mylibrary
+LibName32=excellent-collection/w_connectors
