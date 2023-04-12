@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "anavi-light-rescue")(type "Legacy")(uri "${KIPRJMOD}/anavi-light-rescue.lib")(options "")(descr ""))
+  (lib (name "mylibrary")(type "Legacy")(uri "${KIPRJMOD}/mylibrary.lib")(options "")(descr ""))
+  (lib (name "w_connectors")(type "Legacy")(uri "${KIPRJMOD}/excellent-collection/w_connectors.lib")(options "")(descr ""))
+)
